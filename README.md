@@ -2,9 +2,8 @@
 #### Eu sou desenvolvedor Front-end
 Comecei no desenvolvimento de software por curiosidade em saber o que acontece "por trás das telas", me interessei muito pelo assunto e me apaixonei pela programação e meu objetivo é ajudar nos problemas do dia a dia usando a tecnologia.
 
-Skills: VUE JS / Tailwind CSS / JS / HTML / CSS
 
-- 🔭 Eu atualmente desenvolvo com Html, CSS, JS, Tailwind CSS 
+- 🔭 Eu atualmente desenvolvo com Html, CSS, JavaScript e Tailwind CSS 
 - 🌱 Eu estou aprendendo Vue.js 
 
 
